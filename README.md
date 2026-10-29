@@ -4,6 +4,7 @@ CommerceHub is a Java 21 e-commerce and inventory management application develop
 
 ## Features
 
+
 - Physical and digital product management
 - Product search, sorting, and filtering
 - Inventory management and purchasing
