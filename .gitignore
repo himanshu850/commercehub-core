@@ -1,0 +1,37 @@
+
+# Maven build output
+target/
+
+# Eclipse workspace and project metadata
+.metadata/
+.settings/
+.project
+.classpath
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Local environment files and secrets
+.env
+.env.*
+!.env.example
+
+# Local configuration containing credentials
+application-local.properties
+application-local.yml
+
+# Java crash reports
+hs_err_pid*
+replay_pid*
